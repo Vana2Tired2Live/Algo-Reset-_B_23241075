@@ -1,0 +1,71 @@
+Judul
+Algoritma Penentuan Bilangan Ganjil /Genap
+
+Deklarasi Variable
+bil Integer
+
+Implementasi
+Mulai
+Jika (if) bil Mod 2/= 1, maka
+bil <- Bilangan Genap
+bil <- Bilangan Ganjil
+cetak (bil)
+Selesai
+
+=======================================
+
+Judul
+Algoritma Menghitung Luas Lingkaran
+
+Deklarasi Variabel
+var phi
+var r
+var L
+
+Implementasi
+Mulai
+Input r
+Hitung L = phi*r^2
+cetak(L)
+Selesai
+
+=======================================
+
+Judul
+Algoritma Konversi suhu dari Farrenheit ke Celcius
+
+Deklarasi Variabel
+var C
+var F
+
+Implementasi
+Mulai
+Input F
+Hitung C = (F-32) *5/9
+cetak(C)
+Selesai
+
+========================================
+
+Judul
+Hitung Total Belanja Setelah Diskon
+
+Deklarasi Variabel
+var Diskon
+var Total Awal Belanja
+var Total Akhir Belanja
+
+Implementasi
+Mulai
+Input Total Belanja
+Input Diskon
+hitung Total Akhir Belanja = Total Awal Belanja - (Diskon/100*Total Awal Belanja)
+cetak(Total Akhir Belanja)
+Selesai
+
+
+
+
+
+
+
